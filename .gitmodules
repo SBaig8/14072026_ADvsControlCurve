@@ -1,0 +1,3 @@
+[submodule "smma"]
+	path = smma
+	url = https://github.com/annaconti2001/smma.git
