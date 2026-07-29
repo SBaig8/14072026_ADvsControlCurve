@@ -10,3 +10,8 @@
 # Data
 raw_data/*
 results/*
+
+.DS_Store
+**/.DS_Store
+
+raw_data/raw_data.txt
